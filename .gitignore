@@ -1,0 +1,19 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos Git
+.git
