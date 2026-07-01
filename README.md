@@ -66,6 +66,7 @@ El dashboard fue diseñado con navegación interactiva entre múltiples vistas a
 
 ### Vista 1 — Universo de empleados
 
+![Dashboard Universo de Empleados](images/dashboard-universo-empleados.png)
 Permite explorar:
 
 - distribución etaria
@@ -76,6 +77,8 @@ Permite explorar:
 
 ### Vista 2 — Evaluación de empleados
 
+![Dashboard Evaluación de Empleados](images/dashboard-evaluacion-empleados.png)
+
 Permite analizar:
 
 - desempeño promedio general
@@ -84,6 +87,8 @@ Permite analizar:
 - comparación entre departamentos
 
 ### Vista 3 — Análisis de sueldos
+
+![Dashboard Análisis de sueldos de Empleados](images/dashboard-analisis-sueldos-empleados.png)
 
 Permite visualizar:
 
