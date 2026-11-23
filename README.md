@@ -114,17 +114,9 @@ A través del análisis realizado es posible identificar:
 
 ## Vista del Dashboard
 
-### Universo de empleados
-
-[Agregar captura aquí]
-
-### Evaluación empleados
-
-[Agregar captura aquí]
-
-### Análisis de sueldos
-
-[Agregar captura aquí]
+- Universo de empleados
+- Evaluación empleados
+- Análisis de sueldos
 
 ---
 
